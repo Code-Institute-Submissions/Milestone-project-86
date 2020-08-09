@@ -60,7 +60,7 @@ body {
 
 #hero-outer{
 width:100%;
-height:700px;
+height:600px;
 overflow:hidden;
 position: relative;
 
@@ -162,7 +162,7 @@ float: left;
 
 
 #image2 {
-    margin: 25px;
+    margin: auto;
     width: 100%;
     height: 100px;
     background: url(https://images.unsplash.com/photo-1526404079162-d93dafdeef3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60) center center;
@@ -197,24 +197,24 @@ float: left;
 }
 
 .container{
-   max-width: 1200px;
+   max-width:1200px;
    height: auto;
    margin: auto;
-   background-color: white;
+   background-color: #ffffff;
    overflow: auto;
    margin-top: 100px;
   
 }
 .gallery{
-    margin: 7px;
+    margin-left: 13px;
     border: 1px solid white;
     float: left;
-    width: 380px;
-    
+    width: 380px;    
 }
+
 .gallery img{
   width: 100%;
-  height: 400px;;  
+  height: 400px;
 }
 .gallery1 {
     margin: 7px;
@@ -234,7 +234,7 @@ float: left;
 }
 
 #find{
-    height: 500px;
+    height: auto;
 }
 .desc11{
     padding: 15px;
@@ -282,3 +282,87 @@ height: 150px;
     margin-left: 30px;
 
 }
+
+
+@media screen and (max-width: 1199px ){
+    .container{
+        width: 100%;
+        height: auto;
+        margin: auto;
+    }
+    #welcome2{
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .gallery1 {
+      width: 100%;
+      margin: 0 auto;
+    }
+    .gallery {
+      width: auto;
+      margin: auto;
+      float: none;
+    }
+    
+    .desc11{
+        text-align: center;
+    }
+    .desc22{
+        text-align: center;
+    }
+    .desc33{
+        text-align: center;
+    }
+
+    #cover-text1{
+        width: 100%;
+        text-align: center;
+        
+    }
+  
+}
+
+@media screen and (max-width:767px) {
+    #logo {
+        text-align: center;
+        font-size: 200%;
+        margin-left: 24px;
+    }
+    #menu{ 
+         clear: left;
+         float: left;
+         margin-left: 20px;
+    }
+
+#left-about{
+    width: 100%;
+}
+#right-about{
+    width: 100%;
+}
+#cover-text{
+    width: 100%;
+    right: 0px;
+    font-size: 100%;
+}
+#welcome {
+    font-size: 200%;
+}
+#welcome2{
+    font-size: 200%;
+}
+#cover-text1{
+    font-size: 100%;
+}
+#social-networks li {
+    float: left;
+    }
+#info{
+    font-size: 60%;
+}
+
+}
+
+
+
+
