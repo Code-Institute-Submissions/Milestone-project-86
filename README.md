@@ -3,7 +3,8 @@
 
 [View the live project here.](https://omahamud.github.io/Milestone-project/)
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+This is the main marketing website for The New You GYM. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential 
+customers.
 
 <h2 align="center"><img src="file:///Users/osmanmahamud/Desktop/Am%20I%20Responsive_.html"></h2>
 
@@ -19,14 +20,14 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+        1. As a Returning Visitor, I want to find information about classes.
+        2. As a Returning Visitor, I want to find the best way to get in contact with the company with any questions I may have.
         3. As a Returning Visitor, I want to find community links.
 
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+        1. As a Frequent User, I want to check to see if there are any newly added workout.
         2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+
 
 -   ### Design
     -   #### Colour Scheme
@@ -80,6 +81,7 @@ This is the main marketing website for Code Institute. It is designed to be resp
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+My code documents passed the following tests:
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator)
