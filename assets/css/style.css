@@ -63,9 +63,8 @@ width:100%;
 height:600px;
 overflow:hidden;
 position: relative;
-
-
 }
+
 #cover-text, #cover-text h2{
   color:#ffffff;
 }
@@ -101,22 +100,24 @@ position: relative;
   position: absolute; 
 }
 
-#club-ethos {
+#gym-ethos {
     height: 400px;
 }
+
 #left-about {
     width: 50%;
     height: 300px;
     float: left;
-    background: url(https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80) no-repeat center center;
+    background: url(https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80) no-repeat center;
 }
 
 #right-about{
     padding-top: 30px;
-    width: 40%;
+    width: 49%;
     float: right;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+    font-family: fantasy;
+    margin-right: 10px;
+    
 }
 #welcome {
     margin: 25px 0;
@@ -136,30 +137,6 @@ height: auto;
     font-size: 280%;
 
 }
-
-#left{
-width: 30%;
-float: left;
-
-}
-#right{
-width: 30%;
-float: left;
-
-}
-#center {
-    width: 30%;
-   float: left;
-
-}
-
-#names{
-    height: 170px;
-}
-
-
-
-
 
 #image2 {
     margin: auto;
@@ -360,9 +337,4 @@ height: 150px;
 #info{
     font-size: 60%;
 }
-
 }
-
-
-
-
