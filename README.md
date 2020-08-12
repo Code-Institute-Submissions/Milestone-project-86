@@ -1,7 +1,7 @@
 <h1 align="center">The New You Gym</h1>
 <h3 align="left">Code Institute: Milestone Project 1</h3>
 
-[View the live project here.](https://omahamud.github.io/Milestone-project/)
+[View the live project here.](https://github.com/omahamud/Milestone-project-1)
 
 This is the main marketing website for The New You GYM. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential 
 customers.
