@@ -6,7 +6,7 @@
 This is the main marketing website for The New You GYM. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential 
 customers.
 
-<h2 align="center"><img src="file:///Users/osmanmahamud/Desktop/Am%20I%20Responsive_.html"></h2>
+<h2 align="center"><img src="https://github.com/omahamud/Milestone-project-1/blob/master/assets/images/tnyg.png"></h2>
 
 ## User Experience (UX)
 
