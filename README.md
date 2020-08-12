@@ -19,7 +19,6 @@ customers.
         3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
     -   #### Returning Visitor Goals
-
         1. As a Returning Visitor, I want to find information about classes.
         2. As a Returning Visitor, I want to find the best way to get in contact with the company with any questions I may have.
         3. As a Returning Visitor, I want to find community links.
